@@ -1,13 +1,4 @@
-/**
-* Template Name: Ninestars - v4.9.1
-* Template URL: https://bootstrapmade.com/ninestars-free-bootstrap-3-theme-for-creative/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #212529;
@@ -52,13 +43,13 @@ h6,
 
 .back-to-top i {
   font-size: 24px;
-  color: rgb(20, 20, 20);
+  color: #fff;
   line-height: 0;
 }
 
 .back-to-top:hover {
   background: #ee7843;
-  color: rgb(20, 20, 20);
+  color: #fff;
 }
 
 .back-to-top.active {
@@ -83,7 +74,7 @@ h6,
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: rgb(20, 20, 20);
+  background: #fff;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -162,7 +153,7 @@ h6,
 .navbar .getstarted,
 .navbar .getstarted:focus {
   background: #eb5d1e;
-  color: rgb(20, 20, 20);
+  color: #fff;
   padding: 10px 25px;
   margin-left: 30px;
   border-radius: 50px;
@@ -170,7 +161,7 @@ h6,
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
-  color: rgb(20, 20, 20);
+  color: #fff;
   background: #ee7843;
 }
 
@@ -184,7 +175,7 @@ h6,
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: rgb(20, 20, 20);
+  background: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
@@ -251,7 +242,7 @@ h6,
 }
 
 .mobile-nav-toggle.bi-x {
-  color: rgb(20, 20, 20);
+  color: #fff;
 }
 
 @media (max-width: 991px) {
@@ -289,7 +280,7 @@ h6,
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: rgb(20, 20, 20);
+  background-color: #fff;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -320,7 +311,7 @@ h6,
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: rgb(20, 20, 20);
+  background: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
@@ -381,7 +372,7 @@ h6,
   border-radius: 3px;
   transition: 0.5s;
   margin-top: 30px;
-  color: rgb(20, 20, 20);
+  color: #fff;
   background: #eb5d1e;
 }
 
@@ -601,12 +592,12 @@ section {
   position: relative;
   overflow: hidden;
   margin: 0 0 40px 0;
-  background: rgb(20, 20, 20);
+  background: #fff;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
   border-radius: 15px;
   text-align: center;
-  border-bottom: 3px solid rgb(20, 20, 20);
+  border-bottom: 3px solid #fff;
 }
 
 .services .icon-box:hover {
@@ -714,7 +705,7 @@ section {
   color: #eb5d1e;
   margin: 0 4px;
   line-height: 0;
-  background-color: rgb(20, 20, 20);
+  background-color: #fff;
   padding-top: 6px;
   padding-right: 1px;
   border-radius: 50px;
@@ -732,7 +723,7 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
   background: #eb5d1e;
-  color: rgb(20, 20, 20);
+  color: #fff;
 }
 
 .portfolio .portfolio-wrap .portfolio-info {
@@ -748,12 +739,12 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: rgb(20, 20, 20);
+  color: #fff;
   font-weight: 600;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: rgb(20, 20, 20)fff;
+  color: #ffffff;
   font-size: 14px;
   text-transform: uppercase;
 }
@@ -791,7 +782,7 @@ section {
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: rgb(20, 20, 20);
+  background-color: #fff;
   opacity: 1;
   border: 1px solid #eb5d1e;
 }
@@ -907,7 +898,7 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: rgb(20, 20, 20);
+  background: #fff;
   padding: 60px 0;
 }
 
@@ -941,14 +932,14 @@ section {
   font-weight: 700;
   margin-bottom: 2px;
   font-size: 18px;
-  color: rgb(20, 20, 20);
+  color: #fff;
 }
 
 .team .member .member-info-content span {
   font-style: italic;
   display: block;
   font-size: 13px;
-  color: rgb(20, 20, 20);
+  color: #fff;
 }
 
 .team .member .social {
@@ -965,7 +956,7 @@ section {
 .team .member .social a {
   transition: color 0.3s;
   display: block;
-  color: rgb(20, 20, 20);
+  color: #fff;
   margin-top: 15px;
 }
 
@@ -1014,7 +1005,7 @@ section {
 .clients .clients-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: rgb(20, 20, 20);
+  background-color: #fff;
   opacity: 1;
   border: 1px solid #eb5d1e;
 }
@@ -1030,7 +1021,7 @@ section {
   border-top: 3px solid #eb5d1e;
   border-bottom: 3px solid #eb5d1e;
   padding: 30px;
-  background: rgb(20, 20, 20);
+  background: #fff;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
@@ -1076,7 +1067,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #333;
-  color: rgb(20, 20, 20);
+  color: #fff;
   line-height: 1;
   padding: 8px 0;
   border-radius: 50%;
@@ -1089,14 +1080,14 @@ section {
 
 .contact .info .social-links a:hover {
   background: #eb5d1e;
-  color: rgb(20, 20, 20);
+  color: #fff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
   background: #eb5d1e;
-  color: rgb(20, 20, 20);
+  color: #fff;
 }
 
 .contact .php-email-form {
@@ -1104,7 +1095,7 @@ section {
   border-top: 3px solid #eb5d1e;
   border-bottom: 3px solid #eb5d1e;
   padding: 30px;
-  background: rgb(20, 20, 20);
+  background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
@@ -1114,7 +1105,7 @@ section {
 
 .contact .php-email-form .error-message {
   display: none;
-  color: rgb(20, 20, 20);
+  color: #fff;
   background: #ed3c0d;
   text-align: left;
   padding: 15px;
@@ -1127,7 +1118,7 @@ section {
 
 .contact .php-email-form .sent-message {
   display: none;
-  color: rgb(20, 20, 20);
+  color: #fff;
   background: #18d26e;
   text-align: center;
   padding: 15px;
@@ -1136,7 +1127,7 @@ section {
 
 .contact .php-email-form .loading {
   display: none;
-  background: rgb(20, 20, 20);
+  background: #fff;
   text-align: center;
   padding: 15px;
 }
@@ -1173,7 +1164,7 @@ section {
   background: #eb5d1e;
   border: 0;
   padding: 10px 24px;
-  color: rgb(20, 20, 20);
+  color: #fff;
   transition: 0.4s;
   border-radius: 4px;
 }
@@ -1206,7 +1197,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: rgb(20, 20, 20);
+  background: #fff;
   padding: 0 0 30px 0;
   color: #212529;
   font-size: 14px;
@@ -1231,7 +1222,7 @@ section {
 
 #footer .footer-newsletter form {
   margin-top: 30px;
-  background: rgb(20, 20, 20);
+  background: #fff;
   padding: 6px 10px;
   position: relative;
   border-radius: 4px;
@@ -1255,7 +1246,7 @@ section {
   font-size: 16px;
   padding: 0 20px;
   background: #eb5d1e;
-  color: rgb(20, 20, 20);
+  color: #fff;
   transition: 0.3s;
   border-radius: 4px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
@@ -1267,7 +1258,7 @@ section {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: rgb(20, 20, 20);
+  background: #fff;
 }
 
 #footer .footer-top .footer-contact {
@@ -1341,7 +1332,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #eb5d1e;
-  color: rgb(20, 20, 20);
+  color: #fff;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -1354,7 +1345,7 @@ section {
 
 #footer .footer-top .social-links a:hover {
   background: #ef7f4d;
-  color: rgb(20, 20, 20);
+  color: #fff;
   text-decoration: none;
 }
 
